@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<Newsletter> 
+	<Contato>
+		<idcontato>1</idcontato>
+		<nome>Ana</nome>
+		<email>ana@dominio.com</email> 
+	</Contato>
+        <Contato>
+		<idcontato>2</idcontato>
+		<nome>Maria</nome>
+		<email>maria@dominio.com</email> 
+	</Contato>
+        <Contato>
+		<idcontato>3</idcontato>
+		<nome>Pedro</nome>
+		<email>pedro@dominio.com</email> 
+	</Contato>
+</Newsletter>
